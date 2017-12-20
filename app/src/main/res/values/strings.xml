@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+
+    <string name="text_game_status"> Status: %1$s</string>
+    <string name="text_in_session"> Game in session </string>
+    <string name="text_reset">Game has been reset</string>
+
+    <string name="text_flag_loss">Sorry, that was not a mine! Try again</string>
+    <string name="text_mine_loss">Oops, you hit a mine! Try again</string>
+    <string name="text_winner">You found all the mines! Great work!</string>
+
+    <string name="text_flag_mode">Flag Mode is On</string>
+    <string name="text_step_mode">Step Mode is On</string>
+
+    <string name="text_restart">Restart</string>
+    <string name="text_game_start">Status: Game in session</string>
+    <string name="text_title">Minesweeper!</string>
+
+</resources>
